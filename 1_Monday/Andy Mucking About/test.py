@@ -1,0 +1,2 @@
+a = "boo"
+print(a)
